@@ -16,4 +16,4 @@ app.get('/api/q',(req,res) => {
 
 
 const port = process.env.port || 3000;
-app.listen(port , () => console.log(`listening on port ${port}`));
+app.listen(port ,() => console.log(`server is running at localhost:${port}`));
