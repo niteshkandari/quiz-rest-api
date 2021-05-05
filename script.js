@@ -10,6 +10,8 @@ app.get('/' , (req,res) => {
 });
 
 app.get('/api/q',(req,res) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   res.send(data);
 })
 
