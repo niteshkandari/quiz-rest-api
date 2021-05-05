@@ -1,0 +1,38 @@
+[
+  {
+    "questionText": "Which type of JavaScript language is",
+    "answerOptions": [
+      { "answerText": "Object-Oriented", "isCorrect": false },
+      { "answerText": "High-level", "isCorrect": false },
+      { "answerText": "Object based", "isCorrect": true },
+      { "answerText": "Assembly-laanguage", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText":   "When interpreter encounters an empty statements, what it will do:",
+    "answerOptions": [
+      { "answerText": "Shows a warning", "isCorrect": false },
+      { "answerText": "Ignores the statements", "isCorrect": true },
+      { "answerText": "Prompts to complete the statement", "isCorrect": false },
+      { "answerText": "Throws an error", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The `function` and `var` are known as:",
+    "answerOptions": [
+      { "answerText": "Declaration statements", "isCorrect": true },
+      { "answerText": "Keywords", "isCorrect": false },
+      { "answerText": "Data types", "isCorrect": false },
+      { "answerText": "Prototypes", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText":  "In the JavaScript, which one of the following is not considered as an error:",
+    "answerOptions": [
+      { "answerText": "Syntax error", "isCorrect": false },
+      { "answerText": "Missing of semicolons", "isCorrect": false },
+      { "answerText": "Missing of Bracket", "isCorrect": false },
+      { "answerText": "Division by zero", "isCorrect": true }
+    ]
+  }
+]
